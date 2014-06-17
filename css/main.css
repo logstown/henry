@@ -1,0 +1,30 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+rect.pane {
+  cursor: move;
+  fill: none;
+  pointer-events: all;
+}
+
+
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+
+
+
+
+
+
+
+
